@@ -270,6 +270,7 @@ document.addEventListener('DOMContentLoaded', function () {
         { desc: "Compiler Tests", data: compilerTestData },
         { desc: "Services Tests", data: servicesTestData },
     ]);
+    //demo
 
     var normalizedData = [
         { desc: 'Emit', data: emitData },
